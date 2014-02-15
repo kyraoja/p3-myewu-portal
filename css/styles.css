@@ -1,3 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.thumbnails{
+	width: 300px;
+	height: 300px;
+}
