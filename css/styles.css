@@ -2,9 +2,9 @@
 /* CSS Document */
 
 .content{
-	width: 1200px;
-	height: 400px;
-	margin-left: 100px;
+	width: 1440px;
+	height: 500px;
+	
 	}
 
 body{
@@ -12,8 +12,8 @@ body{
 }
 
 .slider{
-	width: 1200px;
-	height: 400px;
+	width: 1440px;
+	height: 500px;
 }
 
 .sub-nav{
@@ -23,3 +23,17 @@ body{
 .bar-color{
 	background: #a10022;
 	}
+	
+.off-canvas-wrap{
+	width: 1500px;
+}
+
+.table{
+	margin-top: 50px;
+	margin-left: 20px;
+	
+}
+
+h3{
+	color: #fff;
+}
