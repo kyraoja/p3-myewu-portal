@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .content{
-	width: 1440px;
+	width: 1420px;
 	height: 500px;
 	
 	}
@@ -25,12 +25,12 @@ body{
 	}
 	
 .off-canvas-wrap{
-	width: 1500px;
+	width: 1420px;
 }
 
 .table{
 	margin-top: 50px;
-	margin-left: 20px;
+	margin-left: 30px;
 	
 }
 
@@ -38,3 +38,23 @@ h3{
 	color: #fff;
 }
 
+
+
+#content{
+	margin-top: 40px;
+	margin-left: 60px;
+
+}
+
+.title{
+	text-align:center;
+}
+
+a,
+h2{
+	color: #fff;
+}
+
+h2{
+	margin-top: 20px;
+}
